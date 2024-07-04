@@ -1,0 +1,8 @@
+.ai{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+.ai > h3{margin-bottom: 4px;margin-top: 30px;}
+.ai > p{margin-top: 4px;}

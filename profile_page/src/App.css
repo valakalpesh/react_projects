@@ -1,0 +1,10 @@
+.team{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+}
